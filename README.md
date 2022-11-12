@@ -5,3 +5,4 @@
 4. Even or odd
 5. Prime Number
 6. Avg . of N numbers
+7. Factorial of a Number
