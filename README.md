@@ -6,3 +6,4 @@
 5. Prime Number
 6. Avg . of N numbers
 7. Factorial of a Number
+8. Sum of Digits of a Number
